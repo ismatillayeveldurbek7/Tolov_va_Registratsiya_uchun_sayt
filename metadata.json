@@ -1,0 +1,6 @@
+{
+  "name": "To'lov va Registratsiya Tizimi",
+  "description": "Ro‘yxatdan o‘tish va to‘lov chekini qabul qilish va tekshirish tizimi (localStorage orqali)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
